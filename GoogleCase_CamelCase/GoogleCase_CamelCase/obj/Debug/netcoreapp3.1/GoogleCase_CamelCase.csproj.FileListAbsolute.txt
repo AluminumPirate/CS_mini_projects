@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\bin\Debug\netcoreapp3.1\GoogleCase_CamelCase.exe
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\bin\Debug\netcoreapp3.1\GoogleCase_CamelCase.deps.json
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\bin\Debug\netcoreapp3.1\GoogleCase_CamelCase.runtimeconfig.json
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\bin\Debug\netcoreapp3.1\GoogleCase_CamelCase.runtimeconfig.dev.json
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\bin\Debug\netcoreapp3.1\GoogleCase_CamelCase.dll
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\bin\Debug\netcoreapp3.1\GoogleCase_CamelCase.pdb
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\obj\Debug\netcoreapp3.1\GoogleCase_CamelCase.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\obj\Debug\netcoreapp3.1\GoogleCase_CamelCase.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\obj\Debug\netcoreapp3.1\GoogleCase_CamelCase.AssemblyInfo.cs
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\obj\Debug\netcoreapp3.1\GoogleCase_CamelCase.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\obj\Debug\netcoreapp3.1\GoogleCase_CamelCase.dll
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\obj\Debug\netcoreapp3.1\GoogleCase_CamelCase.pdb
+C:\Users\user\source\repos\GoogleCase_CamelCase\GoogleCase_CamelCase\obj\Debug\netcoreapp3.1\GoogleCase_CamelCase.genruntimeconfig.cache
