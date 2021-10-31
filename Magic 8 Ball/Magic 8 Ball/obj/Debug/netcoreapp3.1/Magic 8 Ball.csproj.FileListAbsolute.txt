@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.exe
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.deps.json
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.runtimeconfig.json
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.runtimeconfig.dev.json
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.dll
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\bin\Debug\netcoreapp3.1\Magic 8 Ball.pdb
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic_8_Ball.Form1.resources
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.AssemblyInfo.cs
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.dll
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.pdb
+C:\Users\user\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\netcoreapp3.1\Magic 8 Ball.genruntimeconfig.cache
